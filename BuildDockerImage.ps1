@@ -1,0 +1,1 @@
+docker build --no-cache -f ".\weatherforecastapi\Dockerfile" -t weatherforecastapi:5.0 .
